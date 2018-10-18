@@ -7,6 +7,3 @@ Simple C# console application - task manager.
 - Browse tasks
 - Remove outdated tasks
 - Save task list to file (.txt)
-
-#### Screenshots:
-comming soon
